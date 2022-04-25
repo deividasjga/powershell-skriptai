@@ -1,6 +1,6 @@
 # powershell-skriptai
 
-1.
+Apie 1:
   Paleidus scenarijų, gaunamas meniu su keliais pasirinkimais, kuriuos galima pasirinkti įvedus nurodytą simbolį (1, 2, 3 ir Q):
   1. Į txt failą išveda sistemos errorus, kurie sources ir po kiek jie kuria errorų sistemoje mažėjimo tvarka.
   2. Ištrina pirmo pasirinkimo sukurtą txt failą.
@@ -8,7 +8,7 @@
   Q. Išėjimas iš programos.
 
 
-2.
+Apie 2:
 <#
 	.Synopsis
 	
